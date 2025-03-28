@@ -1,3 +1,5 @@
+## Modelo Pratico ##
+
 <img src="Pratica.jpg">
 
 - **Montagem do Circuito:** O retificador de onda foi montado na protoboard conforme o esquema apropriado.  
