@@ -1,3 +1,5 @@
+## Funcionamento da esquematica ##
+
 Este é um circuito de fonte de alimentação regulada de 5V. 
 Ele converte tensão alternada (AC) da rede elétrica em uma tensão contínua (DC) de 5V, que pode ser utilizada para alimentar circuitos eletrônicos sensíveis. 
 O circuito inclui um transformador, uma ponte retificadora, capacitores de filtragem e um regulador de tensão 7805. No final, um LED é alimentado como indicação de funcionamento.
