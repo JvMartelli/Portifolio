@@ -1,3 +1,5 @@
+## Funcionamento do PCB ##
+
 ### Trilhas e Conexões ###
 As trilhas em azul representam as conexões condutoras da PCB, substituindo os fios de ligação em um circuito montado em protoboard. Trilhas mais largas são usadas para conduzir corrente com menor resistência, especialmente na entrada e saída do regulador 7805.
 
